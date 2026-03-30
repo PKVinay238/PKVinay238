@@ -6,8 +6,7 @@
 
 ## About Me
 
-- 🎓 Currently learning **Backend Development**
-- 🔧 Working on **eCommerce API** with Node.js
+- 🎓 Currently learning **Backend Development*
 - 📖 Exploring **REST APIs, Databases & System Design**
 - 🚀 Open to **collaboration & learning opportunities**
 - 💬 Ask me about **JavaScript, Node.js, Express**
